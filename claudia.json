@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "claudia-serverless-api-test-executor",
+    "name": "claudia-serverless-api-test",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "gkn6ogy8z4",
+    "module": "app"
+  }
+}
